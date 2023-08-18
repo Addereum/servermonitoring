@@ -13,5 +13,6 @@ This is a simple server monitoring in Python.
 
 
 ##### Install: 
-###### Requirements: `psutil`
-`$ pip install requests psutil`
+###### Requirements: 
+`flask requests`
+`$ pip install requests flask`
