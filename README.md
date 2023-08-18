@@ -12,4 +12,6 @@ This is a simple server monitoring in Python.
 > I need something to monitor my server performance, why not just a simple web monitoring? ~Addereum
 
 
+##### Install: 
+###### Requirements: `psutil`
 `$ pip install requests psutil`
