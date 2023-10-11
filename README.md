@@ -1,6 +1,5 @@
 
-# Author: Addereum
-#![Author](https://img.shields.io/badge/Author-Addereum-red)
+![Author](https://img.shields.io/badge/Author-Addereum-red)
 
 #### Description
 This is a simple server monitoring in Python with flask and psutil.
